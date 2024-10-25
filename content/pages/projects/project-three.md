@@ -5,10 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  This project blends gaming and education to create engaging, interactive
-  experiences that teach users how to solve real-world problems. Through
-  gameplay, users explore new tools and strategies, fostering innovation and
-  equipping them with the skills to address global challenges.
+  This project merges gaming and education to create interactive experiences
+  that teach users to solve real-world problems. Through gameplay, users
+  discover new tools, foster innovation, and develop skills to tackle global
+  challenges.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
