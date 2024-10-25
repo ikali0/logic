@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Website</title>
+</head>
+<body>
+  <!-- Your site's content -->
+  <!-- Chatbase Chatbot Embed -->
+  <iframe 
+    src="https://www.chatbase.co/chatbot-iframe/78Od-9USaoJpv4dYoIBaF"
+    style="width: 100%; height: 500px; border: none;">
+  </iframe>
+
+  <script>
+    // Improved JavaScript code
+    document.addEventListener("DOMContentLoaded", function() {
+      function initializeChatbot() {
+        console.log("Initializing chatbot...");
+        // Add chatbot initialization logic here
+        console.log("Chatbot is live!");
+      }
+      
+      initializeChatbot();
+    });
+  </script>
+</body>
+</html>
