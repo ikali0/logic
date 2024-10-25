@@ -4,7 +4,10 @@ title: Story-telling
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ' By merging compelling narratives with the latest innovations, it aims to inspire real-world action, offering solutions to global challenges while shifting mindsets, policies, and cultural perspectives.'
+description: >-
+  By blending powerful stories with cutting-edge innovations, this project
+  inspires real-world action, offering solutions to global challenges while
+  reshaping mindsets, policies, and cultural views.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
