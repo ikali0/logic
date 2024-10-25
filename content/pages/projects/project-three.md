@@ -5,7 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  This project blends gaming and education to create engaging, interactive
+  experiences that teach users how to solve real-world problems. Through
+  gameplay, users explore new tools and strategies, fostering innovation and
+  equipping them with the skills to address global challenges.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
