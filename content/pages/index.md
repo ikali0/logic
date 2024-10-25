@@ -47,6 +47,21 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |+
+      \<script>
+      window\.embeddedChatbotConfig = {
+      chatbotId: "78Od-9USaoJpv4dYoIBaF",
+      domain: "www\.chatbase.co"
+      }
+      </script>
+
+      \<script
+      src="https\://www\.chatbase.co/embed.min.js"
+      chatbotId="78Od-9USaoJpv4dYoIBaF"
+      domain="www\.chatbase.co"
+      defer>
+      </script>
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
