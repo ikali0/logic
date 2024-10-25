@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Future Tales
+title: Story-telling
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
