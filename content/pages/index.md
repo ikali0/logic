@@ -10,7 +10,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
+  - elementId: 78Od-9USaoJpv4dYoIBaF
     colors: colors-f
     backgroundSize: inset
     title: >-
