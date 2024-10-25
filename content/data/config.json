@@ -27,13 +27,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Linkedin",
-                "label": "Linkedin",
-                "url": "https://www.linkedin.com/in/inga-kaltak-11i41141/",
-                "icon": "linkedin"
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
